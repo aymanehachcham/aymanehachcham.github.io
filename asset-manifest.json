@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7114ae73.chunk.css",
+    "main.js": "/static/js/main.467ace6f.chunk.js",
+    "main.js.map": "/static/js/main.467ace6f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.53e040f4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.53e040f4.js.map",
+    "static/js/2.521a8e39.chunk.js": "/static/js/2.521a8e39.chunk.js",
+    "static/js/2.521a8e39.chunk.js.map": "/static/js/2.521a8e39.chunk.js.map",
+    "static/css/3.176be3fe.chunk.css": "/static/css/3.176be3fe.chunk.css",
+    "static/js/3.35ff920d.chunk.js": "/static/js/3.35ff920d.chunk.js",
+    "static/js/3.35ff920d.chunk.js.map": "/static/js/3.35ff920d.chunk.js.map",
+    "static/css/4.16294f77.chunk.css": "/static/css/4.16294f77.chunk.css",
+    "static/js/4.17807e9b.chunk.js": "/static/js/4.17807e9b.chunk.js",
+    "static/js/4.17807e9b.chunk.js.map": "/static/js/4.17807e9b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.343142ee66b051cfc637f7cd3d6da12c.js": "/precache-manifest.343142ee66b051cfc637f7cd3d6da12c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.176be3fe.chunk.css.map": "/static/css/3.176be3fe.chunk.css.map",
+    "static/css/4.16294f77.chunk.css.map": "/static/css/4.16294f77.chunk.css.map",
+    "static/css/main.7114ae73.chunk.css.map": "/static/css/main.7114ae73.chunk.css.map",
+    "static/js/2.521a8e39.chunk.js.LICENSE.txt": "/static/js/2.521a8e39.chunk.js.LICENSE.txt",
+    "static/media/2project.jpeg": "/static/media/2project.5bb757ed.jpeg",
+    "static/media/3project.jpeg": "/static/media/3project.adfd63f7.jpeg",
+    "static/media/4project.jpg": "/static/media/4project.6410d280.jpg",
+    "static/media/Laureate.jpeg": "/static/media/Laureate.5ffd7a7b.jpeg",
+    "static/media/index.css": "/static/media/Yellowtail-Regular.af3440da.woff",
+    "static/media/contact.svg": "/static/media/contact.a35177b7.svg",
+    "static/media/data-analyst.svg": "/static/media/data-analyst.9fdcbe4c.svg",
+    "static/media/db-logo.jpg": "/static/media/db-logo.1c9e9aa0.jpg",
+    "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/nvidia-logo-big.jpg": "/static/media/nvidia-logo-big.c1142114.jpg",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skills.svg": "/static/media/skills.834cf215.svg",
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53e040f4.js",
+    "static/js/2.521a8e39.chunk.js",
+    "static/css/main.7114ae73.chunk.css",
+    "static/js/main.467ace6f.chunk.js"
+  ]
+}
